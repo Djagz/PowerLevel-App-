@@ -1,0 +1,24 @@
+.titleAlign{
+	position: relative;
+	text-align: left;
+}
+
+.levelAlign{
+	position: absolute;
+	top: 2px;
+	left: 220px;
+}
+
+.powerButtonAlign{
+	position: absolute;
+	top: 2px;
+	left: 500px;
+}
+
+.imgAlign{
+	position: absolute;
+	top: 2px;
+	left: 900px;
+	height: 300px;
+	width: 350px;
+}

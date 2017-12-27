@@ -1,0 +1,9 @@
+        <fieldset [ngClass] = "{'superSaiyanThreeCard': true}">
+			<legend>
+		     SuperSaiyan3Component
+	        </legend>
+
+	        Power Level: {{updatePower}}
+	        <p *ngIf = "('updatePower > 20000' && 'updatePower < 50000') == true" >SuperlativePower!
+	        </p>
+	    </fieldset>
